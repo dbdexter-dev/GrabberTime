@@ -1,0 +1,9 @@
+Package: com.dbdexter.grabbertime
+Name: GrabberTime
+Depends: mobilesubstrate
+Version: 0.3
+Architecture: iphoneos-arm
+Description: Add a clock to the Notification Center grabber
+Maintainer: DBDexter
+Author: DBDexter
+Section: Tweaks
